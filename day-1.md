@@ -4,7 +4,7 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 ## Learning metrics
+The formula is $p = \frac{c}{t}$ where $p$ is the probability.
 $$
 p = \frac{c}{t}
 $$
-The formula is $p = \frac{c}{t}$ where $p$ is the probability.
