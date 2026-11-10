@@ -18,3 +18,6 @@ p = \frac{c}{t} \times 100
 $$
 
 The formula is $p = \frac{c}{t}$ where $p$ is the probability.
+
+
+
