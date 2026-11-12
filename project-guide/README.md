@@ -60,3 +60,6 @@ On GitHub, the same headings appear at different sizes and task markers become c
 
 Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
 
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
