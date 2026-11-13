@@ -72,3 +72,19 @@ If you run into trouble or have questions about the exercises, open a ticket on 
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
+## Contents 
+- [Troubleshooting](#troubleshooting)
+- [Review checklist](#review-checklist)
+## Troubleshooting
+
+If you see `cat: day-1.md: No such file or directory`, make sure you have navigated into the cloned `Markdown` repository folder using `cd Markdown` and check that you are on the correct branch where `day-1.md` exists.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
+
+
