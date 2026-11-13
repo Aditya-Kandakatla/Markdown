@@ -60,6 +60,15 @@ On GitHub, the same headings appear at different sizes and task markers become c
 
 Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
 
+## Contributing
+
+To suggest an improvement, fork the repository or create a new branch, make a focused change, and preview your Markdown to verify formatting and links. Open a pull request with a clear description of your update. Note that GitHub Actions automatically checks submissions, as there is no application test suite for this journal.
+
+## Support
+
+If you run into trouble or have questions about the exercises, open a ticket on the [repository's Issues page](https://github.com). Please include the lesson number, the action you attempted, and any error messages you received, and avoid sharing private information.
+
+
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
